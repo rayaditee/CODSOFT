@@ -15,4 +15,4 @@ It allows a user to play against the computer.
 - JavaScript
 
 ## Author
-Aditii Ray
+Aditee Ray
